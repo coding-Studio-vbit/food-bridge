@@ -6,3 +6,5 @@ The surplus food from local household, restaurants, parties should not go waste,
 Our volunteers pick up food from your doorstep. You can be part of this good cause.
 
 Let us try and not let anyone sleep on an empty stomach.
+
+#FoodBridge
